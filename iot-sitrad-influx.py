@@ -7,7 +7,7 @@ import json
 # InfluxDB configuration
 INFLUXDB_URL = 'https://influx-prod-13-prod-us-east-0.grafana.net/api/v1/push/influx/write'  # Replace with your actual InfluxDB URL
 USER_ID = '1590137'  # Replace with your actual user ID
-TOKEN = 'glc_eyJvIjoiMTEyOTU0MCIsIm4iOiJzdGFjay05MzcyMjUtaG0td3JpdGUtcHJvbWV0aGV1cy13cml0ZSIsImsiOiI4WTBwMTZ6SThTYzJQajQ3dm14VjczWGQiLCJtIjp7InIiOiJwcm9kLXVzLWVhc3QtMCJ9fQ=='  # Replace with your actual token
+TOKEN = ''  # Replace with your actual token
 
 # Example usage
 url = "https://8af3-190-150-164-10.ngrok-free.app/api/v1/instruments/3/values"  # Replace with the actual URL
